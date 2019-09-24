@@ -20,11 +20,12 @@ body nav {
   background: url("../imgs/bar.jpg");
   padding-left: 28px;
   width: 100%;
-  height: 50px;
+  padding-bottom: 2px;
   box-sizing: border-box;
 }
 body nav li {
   display: inline;
+  color:#fff;
 }
 body nav li a {
   display: inline-block;
